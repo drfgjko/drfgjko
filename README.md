@@ -1,4 +1,4 @@
-<h3  align="left">🐈︎✨ Yikes?! Yep, I'M SUPER LAZY&STUPID</h3>
+<h3  align="left">🐈︎✨ Yikes?! Yep, I'M SUPER LAZY</h3>
 <p  align="center">
 	<!--😂🃏JOKECARD / 🌐WEBSITE: https://github.com/ABSphreak/readme-jokes -->
 	<img  src="https://readme-jokes-trinibs-projects.vercel.app/api"  alt="Jokes Card"  width="400">
@@ -28,9 +28,10 @@
 <!--🖼️OCTOCAT-->
 <p  align="center">
 	<img  src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="130"  height="130">
+</p>
+<p  align="center">
 	<!--🎵SPOTIFY / 🌐WEBSITE: https://github.com/kittinan/spotify-github-profile -->
 	<a  href="https://www.bilibili.com/video/BV1zY411a7B3/?spm_id_from=333.1007.top_right_bar_window_custom_collection.content.click&vd_source=845bce596787b9443ae7b7c32b70d008">
-    <img  src="https://raw.githubusercontent.com/trinib/spotify-github-profile/master/img/default.svg"  height="130"  width="350">
-  </a>
-	<img  src="https://skillicons.dev/icons?i=js,html,css,vue,vite,nodejs,npm,pnpm,pinia,netlify,docker,vercel"/>
+  		<img width="320" height="445" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31l5vsshhl474wkwvv7rbqoyy43q&cover_image=true&theme=default&bar_color=ff0000&bar_color_cover=true">
+ 	 </a>
 </p>
